@@ -6,7 +6,7 @@ export const Offers = () => {
     <div className='offers_container'>
         <div className="offers-left">
             <h1>Exclusive</h1>
-            <h1>Offers For You</h1>
+            <h1>Offers For only You</h1>
             <p>ONLY ON BEST SELLER PRODUCTS</p>
             <button>Check Now</button>
         </div>
