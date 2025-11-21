@@ -11,10 +11,36 @@ export const ShopCategory = (props) => {
       <div className="shopCatogoty-indexsort">
         <p>
           <span>Showing 1 to 12</span> Out of 36 products
-        Load More
-        Load More
-        Load More
-        Load More
+          <span>Showing 1 to 12</span> Out of 36 products
+          <span>Showing 1 to 12</span> Out of 36 products
+          <span>Showing 1 to 12</span> Out of 36 products
+          <span>Showing 1 to 12</span> Out of 36 products
+          <span>Showing 1 to 12</span> Out of 36 products
+          <span>Showing 1 to 12</span> Out of 36 products
+          <span>Showing 1 to 12</span> Out of 36 products
+          <span>Showing 1 to 12</span> Out of 36 products
+          <span>Showing 1 to 12</span> Out of 36 products
+          <span>Showing 1 to 12</span> Out of 36 products
+          <span>Showing 1 to 12</span> Out of 36 products
+          <span>Showing 1 to 12</span> Out of 36 products
+          <span>Showing 1 to 12</span> Out of 36 products
+          <span>Showing 1 to 12</span> Out of 36 products
+          <span>Showing 1 to 12</span> Out of 36 products
+          <span>Showing 1 to 12</span> Out of 36 products
+          <span>Showing 1 to 12</span> Out of 36 products
+          <span>Showing 1 to 12</span> Out of 36 products
+          <span>Showing 1 to 12</span> Out of 36 products
+          <span>Showing 1 to 12</span> Out of 36 products
+          <span>Showing 1 to 12</span> Out of 36 products
+          <span>Showing 1 to 12</span> Out of 36 products
+          <span>Showing 1 to 12</span> Out of 36 products
+          <span>Showing 1 to 12</span> Out of 36 products
+          <span>Showing 1 to 12</span> Out of 36 products
+          <span>Showing 1 to 12</span> Out of 36 products
+          <span>Showing 1 to 12</span> Out of 36 products
+          <span>Showing 1 to 12</span> Out of 36 products
+          <span>Showing 1 to 12</span> Out of 36 products
+       
         </p>
         <div className="shopCategory-sort">
           Sort by <img src = {dropDown_icon} />
